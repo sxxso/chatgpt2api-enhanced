@@ -1,0 +1,13 @@
+{
+  "auth-key": "",
+  "proxy": "",
+  "default_image_model": "gpt-image-2.6-sunburst",
+  "default_text_model": "gpt-6",
+  "default_search_model": "gpt-6",
+  "image_global_concurrency": 4,
+  "image_queue_capacity": 32,
+  "image_queue_timeout_secs": 600,
+  "model_check_ttl_hours": 168,
+  "auto_remove_rate_limited_accounts": false,
+  "log_levels": ["warning", "error"]
+}

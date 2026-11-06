@@ -1,0 +1,52 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+web_dist
+# Virtual environments
+.venv
+.idea
+data
+config.json
+/config.json.bak
+/.config.json.*.tmp
+/chatgpt2api-checks-*/
+/chatgpt2api-ui-check-*/
+edit
+
+docker-compose-local.yml
+
+.claude/settings.local.json
+
+# Environment variables
+.env
+.env.local
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Git cache
+git_cache/
+
+# 调试/测试输出目录
+loginwithpassword_*/
+logwithemailverifycode_*/
+test_batch_output/
+
+# Local-only runtime, generated assets and release packages
+/data-gym-cache/
+/.codex/
+/.local/
+/artifacts/
+/releases/
+*.zip
+*.log
+*.bak
+*.pem
+*.key
+/release-audit.json

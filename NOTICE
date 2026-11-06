@@ -1,0 +1,14 @@
+ChatGPT2API Enhanced
+Maintained by sxxso and contributors.
+
+Based on ChatGPT2API by kunkun / basketikun:
+https://github.com/basketikun/chatgpt2api
+Upstream snapshot: 92dd80e
+Original copyright: Copyright (c) 2026 kunkun
+Original MIT license: LICENSE (retained in full)
+
+This independent community fork adds task recovery, persistence protection,
+verified model catalogs, queues, per-user image limits, Windows setup and
+documentation. It is not affiliated with OpenAI. Original private runtime
+configuration, account pools, generated images, model reports and local Git
+history are not distributed.
